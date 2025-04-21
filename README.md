@@ -33,9 +33,9 @@
 - 아이티뱅크 6개월 (2024.12.17 ~ 2025.06.21)  
 
 **온라인 수강 강의**  
-- [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)  
-- [스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)  
-- [비전공자도 이해할 수 있는 AWS 입문/실전](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9D%B4%ED%95%B4%ED%95%A0%EC%88%98%EC%9E%88%EB%8A%94-aws-%EC%9E%85%EB%AC%B8%EC%8B%A4%EC%A0%84/dashboard)  
+- [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)  
+- [스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)  
+- [비전공자도 이해할 수 있는 AWS 입문/실전](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9D%B4%ED%95%B4%ED%95%A0%EC%88%98%EC%9E%88%EB%8A%94-aws-%EC%9E%85%EB%AC%B8%EC%8B%A4%EC%A0%84)  
 - [Git 마스터 과정](https://academy.dream-coding.com/courses/git)  
 - [정보처리기사](https://www.njobler.net/)  
 - [SQLD 유튜브 강의](https://www.youtube.com/@hdatalab/videos)  
