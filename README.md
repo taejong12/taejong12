@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taejong!</h1>
+<h1 align="center">Hi , I'm Taejong!</h1>
 <h3 align="center">백엔드 개발자를 꿈꾸는 ISFJ</h3>
 
 <p align="center">
