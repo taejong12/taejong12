@@ -2,7 +2,7 @@
 <h3 align="center">백엔드 개발자를 꿈꾸는 ISFJ</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 </p>
 
 ---
