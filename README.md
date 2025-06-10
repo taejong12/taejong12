@@ -44,7 +44,7 @@
 ---
 
 ### 🧪 프로젝트  
-- 📝 **자기소개** : [Self Introduction](https://yourdomain.duckdns.org)  
+- 📝 **자기소개** : [Self Introduction](https://taejong.duckdns.org:8443/)  
 - 🏦 **FREEBANK** : [GitHub](https://github.com/taejong12/FREEBANK)
 - ✈️ **TripPocket**  
   - 리포지터리 : [GitHub](https://github.com/taejong12/itbank_tripPocket)
