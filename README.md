@@ -48,7 +48,7 @@
 - 🏦 **FREEBANK** : [GitHub](https://github.com/taejong12/FREEBANK)
 - ✈️ **TripPocket**  
   - 리포지터리 : [GitHub](https://github.com/taejong12/itbank_tripPocket)
-  - 사이트 주소 : [Live Demo](https://trippocket.dunkdns.org)  
+  - 사이트 주소 : [Live Demo](https://trippocket.duckdns.org/)  
 
 ---
 
